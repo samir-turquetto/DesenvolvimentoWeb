@@ -7,6 +7,10 @@ body{
     border-top: 2px solid red;
 }
 
+.w100{
+    width: 100%;
+}
+
 nav{
     border-bottom: 1px #EEE solid;
     margin-bottom: 10px;
@@ -58,4 +62,9 @@ nav > .navbar-brand > .logo{
 
 .owl-dots > .active{
     background: #666 !important;
+}
+
+#cards{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }

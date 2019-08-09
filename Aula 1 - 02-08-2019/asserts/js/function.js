@@ -1,6 +1,7 @@
 $(document).ready(function(){
     $('.owl-carousel-banner').owlCarousel({
         loop:true,
+        autoplay: true,
         margin:0,
         nav:true,
         items:1,
@@ -9,6 +10,7 @@ $(document).ready(function(){
 
     $('.owl-carousel-slide').owlCarousel({
         loop:true,
+        autoplay: true,
         margin:0,
         nav:true,
         items:3,
